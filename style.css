@@ -4,9 +4,19 @@
 }
 h1 {
     text-align: center;
+    font-family: monospace;
+}
+
+div {
+    text-align: center;
+    width: 700;
 }
 
 img {
     width: 700px;
 
+}
+
+p {
+    
 }
