@@ -16,6 +16,25 @@ main {
 header h1 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 50px;
-    color: green;
     text-align: center;
+}
+
+li {
+    list-style-type: none;
+}
+
+main p,
+main li {
+    padding-left: 15%;
+}
+
+.secret {
+    color: rgb(25, 25, 25);
+}
+
+.okamis {
+    font-size: 72px;
+    background: -webkit-linear-gradient(#da0ddd, #bab219);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
